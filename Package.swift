@@ -16,8 +16,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "BTCocoaCategory",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTCocoaCategory/1.0.1-dev-1474837/BTCocoaCategory.xcframework.zip",
-            checksum: "dd8f42f8145c7cf2dbc9572393e8657b1f912ce03362bdcf220105daca13998d"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTCocoaCategory/2.0.2-dev-1480246/BTCocoaCategory.xcframework.zip",
+            checksum: "a05a067a45f69b030006cb4bec70cf6b32cbd20d83a8eb0abe32b93c2c9bc91e"
         )
     ]
 )
